@@ -1,3 +1,12 @@
 [submodule "oh-my-pi"]
 	path = oh-my-pi
 	url = git@github.com:can1357/oh-my-pi.git
+[submodule "opencode"]
+	path = opencode
+	url = git@github.com:anomalyco/opencode.git
+[submodule "deepseek-harness"]
+	path = deepseek-harness
+	url = https://github.com/deepseek-ai/deepseek-harness.git
+[submodule "pi"]
+	path = pi
+	url = git@github.com:earendil-works/pi.git
