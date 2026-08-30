@@ -1,0 +1,3 @@
+[submodule "oh-my-pi"]
+	path = oh-my-pi
+	url = git@github.com:can1357/oh-my-pi.git
